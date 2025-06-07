@@ -2,7 +2,7 @@
 
 > 稳定、透明、性价比高的国人云服务平台，特别适合 Minecraft 服主、个人开发者与自托管爱好者。
 
-🌟 推荐链接：[https://www.rainyun.com/skymc_](https://www.rainyun.com/skymc_)（您可以获得5折优惠券！）
+🌟 推荐链接：[点此注册雨云](https://www.rainyun.com/skymc_)（您可以获得5折优惠券！）
 
 ### 🚀 为什么选择雨云？
 
