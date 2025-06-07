@@ -6,7 +6,7 @@
 
 ## ✅ Wildcard 虚拟信用卡（推荐）
 
-### [🔗 点击这里注册使用](https://bewildcard.com/i/STARRAIL)（优惠 $1 开卡费）
+### [🔗 点击这里注册使用](https://bewildcard.com/i/STARRAIL)（可获得$1赠金！）
 
 - 独享卡，非合租，安全可靠
 - 支持 40+ 主流平台，如：OpenAI、Anthropic、Cloudflare、AWS、Netflix 等
